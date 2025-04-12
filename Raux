@@ -1,0 +1,2 @@
+const frase "MOSTRE ENTRE VOLTE"
+const palavras = frase.split("")

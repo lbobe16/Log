@@ -1,2 +1,2 @@
-const frase "MOSTRE ENTRE VOLTE"
-const palavras = frase.split("")
+log palavras "MOSTRE ENTRE VOLTE"
+log frase = palavras.split("")
